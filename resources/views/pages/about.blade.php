@@ -1,5 +1,7 @@
 @extends('app')
 
+@section('title', 'About Us | Hello city')
+
 @section('content')
 
 <p>Built with &hearts; by Dina OUAHBI</p>
