@@ -1,6 +1,6 @@
 @extends('app')
 
-@section('title', 'Hello city')
+@section('title', config('app.name'))
 
 @section('content')
 
