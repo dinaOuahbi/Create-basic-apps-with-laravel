@@ -4,6 +4,8 @@
 
 @section('content')
 
+<img src="/images/bourgogne.png" alt="Bourgogne region">
+
 <h1>HELLO FROM DIJON </h1>
 <p>it's currently {{date("F j, Y, g:i a")}}</p>
 
