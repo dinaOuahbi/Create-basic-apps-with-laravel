@@ -4,7 +4,7 @@
 
 @section('content')
 
-<img src="/images/myAvatar.jpg" alt="Bourgogne region">
+<img src="{{ asset('/images/myAvatar.jpg') }}" alt="Bourgogne region">
 
 <p>Built with &hearts; by Dina OUAHBI</p>
 <p><a href="{{route('app_root')}}">Go back to the home page</a></p>
