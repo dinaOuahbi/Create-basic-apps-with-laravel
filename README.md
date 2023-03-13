@@ -31,6 +31,10 @@ One time app is created, you can log in using command line (heroku login) or in 
 - Create heroku remote (heroku remote -v)
 - Push project on heroku remote (git push heroku master)
 
+### Show app
+![Drag Racing](https://github.com/dinaOuahbi/Create-basic-apps-with-laravel/blob/master/Home.png)
+![Drag Racing](https://github.com/dinaOuahbi/Create-basic-apps-with-laravel/blob/master/About.png)
+
 
 #### Thanks for following
 
